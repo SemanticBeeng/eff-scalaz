@@ -2,3 +2,7 @@
 .idea
 target/
 .settings
+project/.sbtboot/
+project/.boot/
+project/.ivy/
+
